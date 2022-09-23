@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="vowels.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+                  <Label Text="Vowel check" FontSize="30" TextColor="DarkBlue"/>
+        <Label  Text="Enter letter" TextColor="Black" />
+        <Entry x:Name="Enteredletter" />
+        <Label x:Name="output" Text="is vowel?" TextColor="Black" />
+        
+        
+        <Button x:Name="Check" Text="Check Vowels" BackgroundColor="#0094FF" Clicked="check_Clicked" />
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+

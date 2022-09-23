@@ -15611,11 +15611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv android/Excercises/LoginPage/LoginPage/LoginPage.csproj",
+      "projectUniqueName": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv android/Adv_java_exercises/LoginPage/LoginPage/LoginPage.csproj",
       "projectName": "LoginPage",
-      "projectPath": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv android/Excercises/LoginPage/LoginPage/LoginPage.csproj",
+      "projectPath": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv android/Adv_java_exercises/LoginPage/LoginPage/LoginPage.csproj",
       "packagesPath": "/Users/shubhamdhamane/.nuget/packages/",
-      "outputPath": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv android/Excercises/LoginPage/LoginPage/obj/",
+      "outputPath": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv android/Adv_java_exercises/LoginPage/LoginPage/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

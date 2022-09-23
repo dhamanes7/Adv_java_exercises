@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EESVlO5ExrZTIc0sh0Pli2ip4NaAm6Nf5dbRwoddDRzA9MFn/kvJ3r3h+ITTyOzGmAKdjRo9C/SHTJAgeLueXQ==",
+  "dgSpecHash": "p3lHQLNtSihojVOwByti6dg3DgOx+9wVRaQDJ8TO3OsVN1v9zvxP+2QFKp+Es7R8fBNQ2YD2kE14i2TbFXHFjw==",
   "success": true,
-  "projectFilePath": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv android/Excercises/LoginPage/LoginPage/LoginPage.csproj",
+  "projectFilePath": "/Users/shubhamdhamane/Documents/cambrian/sem2/adv android/Adv_java_exercises/LoginPage/LoginPage/LoginPage.csproj",
   "expectedPackageFiles": [
     "/Users/shubhamdhamane/.nuget/packages/googlegson/2.9.0.1/googlegson.2.9.0.1.nupkg.sha512",
     "/Users/shubhamdhamane/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
