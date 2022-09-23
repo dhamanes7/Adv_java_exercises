@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExtractVowels.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+
+            <Label
+                Text="Enter word"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="16"
+                HorizontalOptions="Center" />
+            <Entry x:Name="entryText"/>
+            <Label
+                Text="Vowel List"
+                x:Name="vowelList"
+                FontSize="14"
+                HorizontalOptions="Center" />
+             <Label
+                x:Name="nonVowelList"
+                Text="Non-Vowel List"
+                FontSize="14"
+                HorizontalOptions="Center" />
+            <Button
+                x:Name="CounterBtn"
+                Text="Check vowels"
+                Clicked="OnVowelBtnCheck"
+                HorizontalOptions="Center" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+
