@@ -9,7 +9,7 @@
       <dSYMInfoPlistRelativePath>LoginPage.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
       <SymbolFile>obj/Debug/net6.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>LoginPage.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/shubhamdhamane/Projects/LoginPage/LoginPage</SourceProjectPath>
+      <SourceProjectPath>/Users/shubhamdhamane/Documents/cambrian/sem2/adv android/Excercises/LoginPage/LoginPage</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

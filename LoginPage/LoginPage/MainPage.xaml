@@ -4,12 +4,12 @@
              x:Class="LoginPage.MainPage">
 
 <VerticalStackLayout Margin="15" Padding="30, 60, 30, 30">
-        <Label Text="Please log in" FontSize="30" TextColor="AntiqueWhite"/>
-        <Label  TextColor="White" />
+        <Label Text="Please log in" FontSize="30" TextColor="DarkBlue"/>
+        <Label  Text="Enter Username" TextColor="Black" />
         <Entry x:Name="Username" />
-        <Label  TextColor="White" />
+        <Label  Text="Enter Password" TextColor="Black" />
         <Entry x:Name="Password" IsPassword="True" />
-        <Button x:Name="Login" BackgroundColor="#0094FF" Clicked="LoginButton_Clicked" />
+        <Button x:Name="Login" Text="Login" BackgroundColor="#0094FF" Clicked="LoginButton_Clicked" />
     </VerticalStackLayout>
 
 </ContentPage>

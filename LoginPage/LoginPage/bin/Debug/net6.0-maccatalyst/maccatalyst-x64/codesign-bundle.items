@@ -12,7 +12,7 @@
       <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
       <CodesignKeychain></CodesignKeychain>
       <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
-      <SourceProjectPath>/Users/shubhamdhamane/Projects/LoginPage/LoginPage</SourceProjectPath>
+      <SourceProjectPath>/Users/shubhamdhamane/Documents/cambrian/sem2/adv android/Excercises/LoginPage/LoginPage</SourceProjectPath>
     </_CodesignBundle>
   </ItemGroup>
 </Project>
